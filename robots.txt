@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yeomchang-hyperpublic-note.clipdesk.shop/sitemap.xml
-Sitemap: https://yeomchang-hyperpublic-note.clipdesk.shop/sitemap-pages.xml
+Sitemap: https://deungchon-song-trend.link-hub.org/sitemap.xml
+Sitemap: https://deungchon-song-trend.link-hub.org/sitemap-pages.xml
