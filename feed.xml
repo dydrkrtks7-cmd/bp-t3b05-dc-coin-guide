@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://deungchon-song-trend.link-hub.org/2005/Atom">
 <channel>
   <title><![CDATA[염창 염창 하이퍼블릭 추천 가이드]]></title>
-  <link>https://yeomchang-hyperpublic-note.cityjot.shop</link>
+  <link>https://deungchon-song-trend.link-hub.org</link>
   <description><![CDATA[염창 하이퍼블릭 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
   <language>ko-KR</language>
   <pubDate>Thu, 30 Jul 2026 10:18:37 GMT</pubDate>
   <lastBuildDate>Thu, 30 Jul 2026 10:18:37 GMT</lastBuildDate>
-  <atom:link href="https://yeomchang-hyperpublic-note.cityjot.shop/feed.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://deungchon-song-trend.link-hub.org/feed.xml" rel="self" type="application/rss+xml" />
   
     <item>
       <title><![CDATA[염창 염창 하이퍼블릭 추천 가이드 - 공식 홈페이지 오픈 안내]]></title>
-      <link>https://yeomchang-hyperpublic-note.cityjot.shop/</link>
-      <guid isPermaLink="true">https://yeomchang-hyperpublic-note.cityjot.shop/</guid>
+      <link>https://deungchon-song-trend.link-hub.org/</link>
+      <guid isPermaLink="true">https://deungchon-song-trend.link-hub.org/</guid>
       <description><![CDATA[염창 하이퍼블릭 관련 최신 뉴스, 서비스 안내, 리얼 후기 정보를 신속하게 전달하는 공식 RSS 피드입니다.]]></description>
       <pubDate>Thu, 30 Jul 2026 10:18:37 GMT</pubDate>
     </item>
